@@ -12,7 +12,7 @@
 
 3.调用admx-sdk登录
 
-![image](http://f.cloudadmx.com/group1/M00/00/02/wKgAA1ljhBqAVcLqAAA4C5ytr2E648.png)
+![image](http://f.cloudadmx.com/group2/M00/00/0D/wKgABVmng9SATlUDAAAkZMOum3o915.png)
 此接口会自动创建一个用户信息，如果需要补充用户信息，可以自己创建一个自定义接口补全用户信息。
 
 4.http请求
